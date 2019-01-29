@@ -43,7 +43,7 @@ def monopoly_with_fourth_tier
 		:names => {
 			:reading_railroad => {},
 			:pennsylvania_railroad => {},
-			:b_and_o_railroad => {}
+			:b_and_o_railroad => {},
 			:shortline => {}
 		},
 		:rent_in_dollars => {
